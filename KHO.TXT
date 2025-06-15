@@ -1,0 +1,20 @@
+Mã SP|Tên SP|Loại|Số lượng|Đơn giá
+NT01|Bàn làm việc gỗ ép|Bàn|20|2500000.0
+NT02|Ghế xoay văn phòng|Ghế|35|950000.0
+NT03|Tủ hồ sơ 2 cánh|Tủ|10|950000.0
+NT04|Kệ trang trí treo tường|Kệ|25|700000.0
+NT05|Bàn họp oval 2m|Bàn|8|5800000.0
+NT06|Ghế gỗ phòng ăn|Ghế|40|780000.0
+NT07|Tủ giày thông minh|Tủ|15|2100000.0
+NT08|Kệ sách 5 tầng|Kệ|18|1300000.0
+NT09|Bàn trang điểm có gương|Bàn|12|3900000.0
+NT10|Ghế sofa mini 2 chỗ|Ghế|3|6700000.0
+NT11|Bàn ăn 6 ghế mặt kính|Bàn|6|6200000.0
+NT12|Ghế lười bọc vải nhung|Ghế|10|3300000.0
+NT13|Tủ quần áo cửa kéo|Tủ|8|7500000.0
+NT14|Kệ tivi treo tường|Kệ|12|2400000.0
+NT15|Bàn học chống gù lưng|Bàn|20|1800000.0
+NT17|Tủ trưng bày kính 2 tầng|Tủ|5|4600000.0
+NT18|Kệ giày đa năng 3 tầng|Kệ|18|750000.0
+NT19|Bàn làm việc chân sắt chữ Z|Bàn|14|2750000.0
+NT20|Tủ treo tường nhà vệ sinh|Tủ|3|800000.0
